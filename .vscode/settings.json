@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.cpp": "c",
+		"stdio.h": "c"
+	},
+	"editor.fontFamily": "'Cartograph CF', 'Cascadia Code'"
+}
