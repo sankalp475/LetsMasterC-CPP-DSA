@@ -1,7 +1,8 @@
 {
 	"files.associations": {
 		"*.cpp": "c",
-		"stdio.h": "c"
+		"stdio.h": "c",
+		"conio.h": "c"
 	},
 	"editor.fontFamily": "'Cartograph CF', 'Cascadia Code'"
 }
