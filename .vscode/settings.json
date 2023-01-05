@@ -3,7 +3,8 @@
 		"*.cpp": "c",
 		"stdio.h": "c",
 		"conio.h": "c",
-		"A03.C": "cpp"
+		"A03.C": "cpp",
+		"algorithm": "c"
 	},
 	"editor.fontFamily": "'Cartograph CF', 'Cascadia Code'"
 }
